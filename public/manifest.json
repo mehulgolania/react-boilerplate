@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "React Boilerplate",
+  "author": "Mehul Golania",
   "icons": [
     {
       "src": "favicon.ico",
