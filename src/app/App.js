@@ -1,10 +1,14 @@
 import React from 'react';
+import { BrowserRouter, Route } from 'react-router-dom';
+import Layout  from '../component/layout';
 
 function App() {
   return (
-    <div>
-      <h1>React Boilerplate</h1>
-    </div>
+    <>
+      <BrowserRouter>
+        <Route component={Layout} />
+      </BrowserRouter>
+    </>
   );
 }
 
