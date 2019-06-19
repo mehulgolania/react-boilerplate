@@ -1,14 +1,14 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 
-function Home() {
+function Contact() {
   return(
     <>
       <Container>
-        <h1>Home Component</h1>
+        <h1>Contact Component</h1>
       </Container>
     </>
   );
 }
 
-export default Home;
+export default Contact;
