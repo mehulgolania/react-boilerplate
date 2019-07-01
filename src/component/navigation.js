@@ -5,7 +5,7 @@ import { Navbar, Nav } from 'react-bootstrap';
 function Navigation() {
   return(
     <>
-      <Navbar collapseOnSelect bg="danger" variant="dark" expand="lg" className="mb-3" sticky="top">
+      <Navbar collapseOnSelect bg="primary" variant="dark" expand="lg" className="mb-3" sticky="top">
         <LinkContainer to="/">
           <Navbar.Brand>React-Boilerplate</Navbar.Brand>
         </LinkContainer>
