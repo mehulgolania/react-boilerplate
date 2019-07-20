@@ -4,9 +4,11 @@
 This repo is created using create-react-app.
 
 ### Installation ###
+```
 npm install / npm i
 npm start
 open the browser and hit the URL: localhost:3000
+```
 
 ### What's Includes ###
 This repo is build for small & starup projects. It's includes basic components like home, about & 404 this all handled by using react-routing.
