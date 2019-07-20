@@ -1,7 +1,7 @@
 
 # React-Boilerplate #
 
-This repo is boostraped using create-react-app.
+This repo is created using create-react-app.
 
 ### Installation ###
 npm install / npm i
